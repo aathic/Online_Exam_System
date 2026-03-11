@@ -1,2 +1,20 @@
 # Online_Exam_System
-This project is used to build the online exam for students 
+
+Technologies :
+-------------
+Java
+JSP
+Servlet
+JDBC
+MySQL
+Apache Tomcat
+
+Features:
+--------
+Student registration
+Student login
+Admin add exam
+Add question
+Attend exam
+Automatic result calculation
+
